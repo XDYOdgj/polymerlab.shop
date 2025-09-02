@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://polymerlab.shop/sitemap.xml
